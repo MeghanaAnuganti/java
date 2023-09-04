@@ -2,6 +2,6 @@ class First
 {
 	public static void main(string args[])
 	{
-		system.out.println("hello magiee");
+		system.out.println("");
 	}
 }

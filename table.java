@@ -7,7 +7,9 @@ while(a<=20)
 {
 b=multiple*a;
 System.out.println("7*"+a+"="+b);
-a++;
+a++
+
+;
 }
 }
 }
